@@ -1,4 +1,4 @@
-# HTTPSCOMBELL-how-to-
+what i learned -https combell
 
 1. Buy an domainname on combell.be
 2. Push your site to github & link it to your combell site.
